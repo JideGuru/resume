@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jideguru.github.io/resume
+url: http://jideguru.github.io/resume/
 author: JideGuru
 
 # edit this section with your information
@@ -18,8 +18,8 @@ title: JideGuru's Resume
 name: Olusegun Festus Babajide
 email: guruliciousjide@gmail.com
 email_full: mailto:guruliciousjide@gmail.com
-website: http://jideguru.github.io/resume
-website_full: https://jideguru.github.io/resume
+website: http://jideguru.github.io/resume/
+website_full: https://jideguru.github.io/resume/
 github: JideGuru
 twitter: iamjideguru
 tel: +229 94 68 44 68
